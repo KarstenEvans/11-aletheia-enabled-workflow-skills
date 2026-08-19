@@ -1,0 +1,6 @@
+interface:
+  display_name: "Geo Aeo Optimizer"
+  short_description: "Make content citable in AI answer systems"
+  default_prompt: "Use $geo-aeo-optimizer to audit this page for AI citation readiness and then rewrite it."
+policy:
+  allow_implicit_invocation: true

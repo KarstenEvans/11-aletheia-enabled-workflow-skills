@@ -1,0 +1,6 @@
+interface:
+  display_name: "Content Repurposer"
+  short_description: "Turn one source into platform-native content"
+  default_prompt: "Use $content-repurposer to turn this source into distinct LinkedIn, email, blog, and short-form pieces."
+policy:
+  allow_implicit_invocation: true

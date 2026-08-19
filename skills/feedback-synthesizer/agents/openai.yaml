@@ -1,0 +1,6 @@
+interface:
+  display_name: "Feedback Synthesizer"
+  short_description: "Find evidence-linked patterns in feedback"
+  default_prompt: "Use $feedback-synthesizer to find recurring themes, contradictions, and actions in this feedback."
+policy:
+  allow_implicit_invocation: true

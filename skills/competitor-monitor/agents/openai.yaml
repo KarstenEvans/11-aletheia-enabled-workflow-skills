@@ -1,0 +1,6 @@
+interface:
+  display_name: "Competitor Monitor"
+  short_description: "Track material competitor changes with sources"
+  default_prompt: "Use $competitor-monitor to compare these competitors with the last baseline and produce a sourced weekly brief."
+policy:
+  allow_implicit_invocation: true

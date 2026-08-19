@@ -1,0 +1,6 @@
+interface:
+  display_name: "Decision Helper"
+  short_description: "Pressure-test choices with evidence controls"
+  default_prompt: "Use $decision-helper to compare these options, challenge my current lean, and show the evidence and conflicts."
+policy:
+  allow_implicit_invocation: true

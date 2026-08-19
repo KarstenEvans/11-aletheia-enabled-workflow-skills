@@ -1,0 +1,6 @@
+interface:
+  display_name: "Executive Brief"
+  short_description: "Compress updates into decisions and risks"
+  default_prompt: "Use $executive-brief to turn these records into a concise leadership brief with conflicts and decisions needed."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Inbox Triage"
+  short_description: "Prioritize email and draft reviewable replies"
+  default_prompt: "Use $inbox-triage to show what needs me today and prepare replies without sending them."
+policy:
+  allow_implicit_invocation: true
